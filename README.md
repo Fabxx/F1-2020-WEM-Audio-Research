@@ -18,6 +18,8 @@ Current researched IDs:
 
 8572170 = menu music
 
+795199277 = championship menu soundtrack
+
 559059847 = press start soundtrack
 
 693860636 = ??
