@@ -4,6 +4,7 @@ List of Soundbank IDs with their content description for modding purposes
 Tools used:
 
 -bnk extractor
+
 -audio_bnk_creator
 
 optional: ww2ogg (not compatible with VLC/audacity, uses custom vorbis audio format, sounds glitchy)
